@@ -1,6 +1,6 @@
 
 function minNum (firstNum,secondNum){
-    if (firstNum< secondNum)
+    if (firstNum<secondNum)
     return firstNum;
     else
     return secondNum;
